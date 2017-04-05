@@ -1122,12 +1122,12 @@
 		}
 
 		a:hover {
-			color: #ed786a;
+			color: #ebd48f;
 			border-bottom-color: rgba(255, 255, 255, 0);
 		}
 
 			a:hover strong {
-				color: #ed786a;
+				color: #ebd48f;
 			}
 
 	strong, b {
@@ -1450,7 +1450,7 @@
 		-webkit-appearance: none;
 		position: relative;
 		display: inline-block;
-		background: #ed786a;
+		background: #ebd48f;
 		color: #fff !important;
 		text-transform: uppercase;
 		border-radius: 4px;
@@ -1486,7 +1486,7 @@
 		input[type="reset"]:active,
 		button:active,
 		.button:active {
-			background: #ed786a;
+			background: #ebd48f;
 		}
 
 		input[type="button"].alt,
@@ -1636,7 +1636,7 @@
 		#header h1 {
 			font-family: 'Arvo';
 			font-weight: 700;
-			color: #ed786a;
+			color: #ebd48f;
 			text-shadow: 0.05em 0.075em 0 rgba(0, 0, 0, 0.1);
 		}
 
@@ -1692,12 +1692,12 @@
 			}
 
 		#nav > ul > li.active > a:before, #nav > ul > li:hover > a:before {
-			background: #ED786A;
+			background: #ebd48f;
 			color: #fff;
 		}
 
 		#nav > ul > li.active > a > span, #nav > ul > li:hover > a > span {
-			color: #ED786A;
+			color: #ebd48f;
 		}
 
 /* Features */
@@ -1950,7 +1950,7 @@
 					-webkit-transition: color 0.25s ease-in-out, border-bottom-color 0.25s ease-in-out;
 					-ms-transition: color 0.25s ease-in-out, border-bottom-color 0.25s ease-in-out;
 					transition: color 0.25s ease-in-out, border-bottom-color 0.25s ease-in-out;
-					color: #ed786a;
+					color: #ebd48f;
 				}
 
 		/* Banner */
